@@ -1,0 +1,36 @@
+body{
+margin:0;
+padding:0;
+background-image: url("file:///C:/Users/Home/Desktop/img/rg.jpg");
+background-size:cover;
+}
+.signinbox{
+color:white;
+background-color:black;
+height:280px;
+width=420px;
+top:20%;
+left:40%;
+position:absolute;
+padding:50px 30px;
+border-radius:10px;
+border:solid 2px #6fbbd3;
+}
+.signinbox h1{
+font-family:Forte;
+}
+.signinbox p{
+font-family:Forte;
+display:inline;
+}
+.signinbox button{
+height=10px;
+color:white;
+background-color:red;
+padding:2px 100px;
+border:solid 2px bule;
+border-radius:100px;
+font-size:30px;
+font-weight:bold;
+font-family:Copperplate Gothic;
+}
